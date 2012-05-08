@@ -11,7 +11,7 @@ routes('/here/:here_name/:user')
     });
 	
 	
-/* Accepts a POST at URL matching /here/?A?/?B?
+/* Accepts a POST at URL matching /there/?A?
 params.over_name = ?A?
 */
 routes('/there/:over_name')
