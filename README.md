@@ -10,11 +10,12 @@ or [codeproject](http://www.codeproject.com/Articles/379614/NodeJS-REST-server-t
 ***Not fully tested***
 
 However, it should now work with the following URL formats
-1. /here/:here_name/:user
-2. /here?here_name={here_name}&user={user}
-3. /there/:where?here_name={here_name}&user={user}
 
-The first format works for sure. See rest-stress
+ 1. /here/:here_name/:user
+ + /here?here_name={here_name}&user={user}
+ + /there/:where?here_name={here_name}&user={user}
+
+The first format works for sure. See [rest-stress](https://github.com/knowlecules/rest-stress)
 
 Formats 2 and 3 are parsed and stored correctly in the routes, so I'm pretty sure they sure they will work.
 
