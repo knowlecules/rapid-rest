@@ -1,0 +1,11 @@
+{
+    "name": "rapid-rest",
+    "description": "Minimal rest server",
+    "author": "Jason Rudland <knowlecules@gmail.com>",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "jasmine": "x.x.x"
+    },
+    "engine": "node >= 0.6.1"
+}

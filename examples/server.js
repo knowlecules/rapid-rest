@@ -1,4 +1,4 @@
-var routes = require("../lib/rapid-rest")();
+var routes = require("../lib/rapid-rest2")();
 var port = 8004;
 
 /* Accepts a POST at URL matching /here/?A?/?B?
