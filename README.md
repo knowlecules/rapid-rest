@@ -5,9 +5,10 @@ Minimal overhead NodeJS REST server.
 
 Insprired by the amazing throughput of NodeJS but dissappointed by the overhead of the available libraries I decided to hone my own.
 
-See [rest-stress](https://github.com/knowlecules/rest-stress)
+There is a performance review available on [codeproject](http://www.codeproject.com/Articles/379614/NodeJS-REST-server-trials-to-validate-effective-sc) review 
 
-or [codeproject](http://www.codeproject.com/Articles/379614/NodeJS-REST-server-trials-to-validate-effective-sc) review 
+The test suite is available on github at [rest-stress](https://github.com/knowlecules/rest-stress)
+
 
 ## Installation and Usage
 
