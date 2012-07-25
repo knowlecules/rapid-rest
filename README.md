@@ -1,23 +1,48 @@
 rapid-rest
 ==========
 
-Minimal NodeJS REST server
+Minimal overhead NodeJS REST server. 
+
+Insprired by the amazing throughput of NodeJS but dissappointed by the overhead of the available libraries I decided to hone my own.
 
 See [rest-stress](https://github.com/knowlecules/rest-stress)
 
 or [codeproject](http://www.codeproject.com/Articles/379614/NodeJS-REST-server-trials-to-validate-effective-sc) review 
+##Syntax
+The syntax is wholesale copy of the node-rest project which seems to have lost some of it's steam plus some smatterings of other REST syntaxes that I've used along the way.  
 
-***Not fully tested***
+#### Example 1:
+Accept a GET request that has a single parameter in the path 
+```
+routes('/there/:over_name')
+    ('get', function(req, res, params){
+        function(){
+           alert("You requested:" + params.over_name)
+        }
+    });
+routes.listen(port);
+```
 
-However, it should now work with the following URL formats
+#### Example 2:
+Accept a POST request with multiple parameter in the path 
+```
+routes('/here/:here_name/:user')
+    ('post', function(req, res, params, data){
+       function(){
+          alert("You sent:" + JSON.stringify(data) + " to " +  params.here_name  + " for user: " + params.user)
+       }
+    });
+```
 
- 1. /here/:here_name/:user
- + /here?here_name={here_name}&user={user}
- + /there/:where?here_name={here_name}&user={user}
+#### Example 3:
+Accept a DELETE request with parameters defined in the path and with multiple required querystring parameters. 
+```
+routes('/there/:where?here_name={here_name}&user={user}')
+     ('delete', function(req, res, params){
+         function(){
+            alert("You're deleting:" + params.where + " where here_name is " +  params.here_name  + ", for user: " + params.user)
+         }
+      });
+```
 
-The first format works for sure. See [rest-stress](https://github.com/knowlecules/rest-stress)
 
-Formats 2 and 3 are parsed and stored correctly in the routes, so I'm pretty sure they sure they will work.
-
-###How's the performance?
-It cost's to parse and check, but the numbers are still pretty good. All the new features incur a 4% slowdown.
