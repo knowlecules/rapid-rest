@@ -30,9 +30,7 @@ Accept a GET request that has a single parameter in the path
 ```
 routes('/there/:over_name')
     ('get', function(req, res, params){
-        function(){
-           alert("You requested:" + params.over_name)
-        }
+         alert("You requested:" + params.over_name);
     });
 routes.listen(port);
 ```
@@ -42,9 +40,7 @@ Accept a POST request with multiple parameter in the path
 ```
 routes('/here/:here_name/:user')
     ('post', function(req, res, params, data){
-       function(){
-          alert("You sent:" + JSON.stringify(data) + " to " +  params.here_name  + " for user: " + params.user)
-       }
+         alert("You sent:" + JSON.stringify(data) + " to " +  params.here_name  + " for user: " + params.user);
     });
 ```
 
@@ -53,10 +49,8 @@ Accept a DELETE request with parameters defined in the path and with multiple re
 ```
 routes('/there/:where?here_name={here_name}&user={user}')
      ('delete', function(req, res, params){
-         function(){
-            alert("You're deleting:" + params.where + " where here_name is " +  req.query.here_name  
+          alert("You're deleting:" + params.where + " where here_name is " +  req.query.here_name  
                            + ", for user: " + req.query.user)
-         }
       });
 ```
 
