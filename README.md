@@ -53,7 +53,8 @@ Accept a DELETE request with parameters defined in the path and with multiple re
 routes('/there/:where?here_name={here_name}&user={user}')
      ('delete', function(req, res, params){
          function(){
-            alert("You're deleting:" + params.where + " where here_name is " +  params.here_name  + ", for user: " + params.user)
+            alert("You're deleting:" + params.where + " where here_name is " +  req.query.here_name  
+                           + ", for user: " + req.query.user)
          }
       });
 ```
