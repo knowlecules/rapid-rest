@@ -20,6 +20,14 @@ routes('/there/:over_name')
     });
 routes.listen(port);
 
+/* Attempts to miss-match
+ params.level_name != params.level
+ */
+routes('/callback/:table_name?level_name={level_name}&callback={callback}')
+    ('get', function(req, res, params, jsonData){
+        callbackWords(req, res, params, jsonData);
+    });
+
 var interval;
 function here(req, res, params, bodyContents) {
 	var msg = "got 'here'";
@@ -40,4 +48,15 @@ function there(req, res, params, bodyContents) {
     res.writeHead(201,'' , {'Content-Type': 'text/html'});
     res.end(msg);
 };
+
+function callbackWords(req, res, params, bodyContents) {
+    var msg = "went 'callbackwords'";
+    console.log(msg);
+    console.dir(bodyContents);
+    console.dir(params);
+
+    res.writeHead(201,'' , {'Content-Type': 'text/html'});
+    res.end(msg);
+};
+
 console.log(" listening on port:" + port);

@@ -73,4 +73,33 @@ req.on('error', function(e) {
 req.write(JSON.stringify(survey.answers));
 req.end();
 
+// calling jsonp
+// http://127.0.0.1:8124/bw?table=words&level=11&callback=babyword=dojo.io.script.jsonp_dojoIoScript1._jsonpCallback
+var collection = "there";
+var survey = surveys[1];
+options.path = '/bw?table=words&level=11&callback=babyword=dojo.io.script.jsonp_dojoIoScript1._jsonpCallback';
+
+var req = http.request(options, function(res) {
+    if(res.statusCode != 201){
+        console.log('STATUS: ' + res.statusCode);
+        console.log('HEADERS: ' + JSON.stringify(res.headers));
+    }else{
+        console.log('SUCCESS: ' + JSON.stringify(res.headers));
+    }
+    res.setEncoding('utf8');
+
+    res.on('data', function (chunk) {
+        console.log('BODY: ' + chunk);
+    });
+});
+
+
+req.on('error', function(e) {
+    console.log('problem with request: ' + e.message);
+});
+
+// write data to request body
+req.write(JSON.stringify(survey.answers));
+req.end();
+
 console.log(" interacting on port:" + port);
