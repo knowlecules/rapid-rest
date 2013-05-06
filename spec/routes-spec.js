@@ -1,15 +1,15 @@
 var routes = require("../lib/rapid-rest")();
 
-describe('rapid-rest-routes', function(){
+describe('rapid-rest-routes', function () {
 
-    it('path with url params', function(){
+    it('path with url params', function () {
         routes('/here/:here_name/:user')
-            ('post', function(req, res, params, jsonData){
+            ('post', function (req, res, params, jsonData) {
                 here(req, res, params, jsonData);
             });
         var rePattern = "\\/here\\/([^/]*)\\/([^/]*)";
 
-        var matchDef = routes.matchDefs[rePattern] ;
+        var matchDef = routes.matchDefs[rePattern];
         expect(matchDef).not.toEqual(null);
 
         expect(matchDef.re).toEqual(/\/here\/([^/]*)\/([^/]*)/);
