@@ -1,12 +1,17 @@
 {
     "name": "rapid-rest",
-    "version": "0.2.0",
+    "version": "0.2.2",
     "description": "Minimal rest server",
-    "author": "Jason Rudland <knowlecules@gmail.com>",
-    "dependencies": {
+    "keywords":["rest","server","fast","mandatory querystring parameters"],
+    "repository":"git://github.com/knowlecules/rapid-rest.git",
+
+    "author": {
+        "name": "Jason Rudland",
+        "email": "knowlecules@gmail.com"
     },
-    "devDependencies": {
-        "jasmine": "x.x.x"
-    },
+
+    "main" : "./index",
+    "license": "MIT",
+
     "engine": "node >= 0.6.1"
 }
