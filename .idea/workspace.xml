@@ -5,14 +5,45 @@
     <option name="CUSTOM_SCOPE_NAME" value="Current File" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" name="Default" comment="Allow for empty POST">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/client.js" afterPath="$PROJECT_DIR$/examples/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/server.js" afterPath="$PROJECT_DIR$/examples/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/routes-spec.js" afterPath="$PROJECT_DIR$/spec/routes-spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/server.js" afterPath="$PROJECT_DIR$/examples/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rapid-rest.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367802781055" ignored="false" />
+    <file path="/a.dummy" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367802303467" ignored="false" />
+    <file path="C:/Source/Library/nodejs/edge-server/lib/edgeServer.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367276624750" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/server.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367802100769" ignored="false" />
+    <file path="/server.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367534480776" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/lib/auctionManager.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367801693872" ignored="false" />
+    <file path="/auctionManager.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367801686616" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/test/auctionActions.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367688907387" ignored="false" />
+    <file path="/auctionActions.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367687670335" ignored="false" />
+    <file path="$PROJECT_DIR$/../../node_modules/node-restify/lib/server.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367419635820" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/package.json" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367703474091" ignored="false" />
+    <file path="/package.json" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367422538188" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/test.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/README.md" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/lib/validators.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/lib/xss.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/lib/index.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/lib/validator.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/lib/filter.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/lib/defaultError.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/lib/entities.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/test/validator.test.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/index.html" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/validator.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/validator-min.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/validator/package.json" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367424062048" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/test/inlineTester.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367686028406" ignored="false" />
+    <file path="/inlineTester.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367685804967" ignored="false" />
+    <file path="/fragment.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367688860704" ignored="false" />
+    <file path="/rapid-rest.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367802522842" ignored="false" />
+    <file path="$PROJECT_DIR$/../node-auction/node_modules/rapid-rest/lib/rapid-rest.js" changelist="a45be2db-3362-4ea6-8ecc-68d7ca31ceee" time="1367802538677" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +63,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="rapid-rest.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="rapid-rest.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/rapid-rest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="0" selection-start="6051" selection-end="6051" vertical-scroll-proportion="0.0">
+            <state line="22" column="65" selection-start="668" selection-end="668" vertical-scroll-proportion="0.57258064">
               <folding />
             </state>
           </provider>
@@ -62,16 +93,16 @@
       <file leaf-file-name="client.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="73" selection-start="1828" selection-end="1828" vertical-scroll-proportion="0.0">
+            <state line="84" column="63" selection-start="2463" selection-end="2463" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="27" selection-start="363" selection-end="363" vertical-scroll-proportion="0.3690304">
+            <state line="33" column="68" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -99,6 +130,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -106,19 +142,18 @@
         <option value="$PROJECT_DIR$/test/routes-test.js" />
         <option value="$PROJECT_DIR$/spec/routes-test.js" />
         <option value="$PROJECT_DIR$/lib/rapid-rest2.js" />
-        <option value="$PROJECT_DIR$/lib/rapid-rest.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/spec/routes-spec.js" />
         <option value="$PROJECT_DIR$/examples/client.js" />
         <option value="$PROJECT_DIR$/examples/server.js" />
+        <option value="$PROJECT_DIR$/lib/rapid-rest.js" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1600" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -162,6 +197,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,50 +287,69 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.externalResources" />
-    <property name="last_opened_file_path" value="C:/dev/nodejs/node.exe" />
+    <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rest-stress" />
     <property name="FullScreen" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/dev/nodejs/node" path-to-js-file="examples/server.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="client.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/dev/nodejs/node" path-to-js-file="examples/client.js" working-dir="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
     <configuration default="false" name="routes-spec.js" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver" temporary="true">
       <setting name="configLocationType" value="JS_FILE" />
       <setting name="configType" value="FILE_PATH" />
       <setting name="settingsFile" value="" />
       <setting name="jsFile" value="$PROJECT_DIR$/spec/routes-spec.js" />
       <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
     <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
       <setting name="nodePath" value="/usr/local/bin/node" />
+      <envs />
+      <setting name="passParentEnvVars" value="true" />
       <setting name="nodeunitModuleDir" value="$PROJECT_DIR$/../../node_modules/nodeunit" />
       <setting name="workingDirectory" value="$PROJECT_DIR$" />
       <setting name="testType" value="JS_FILE" />
       <setting name="jsFile" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
@@ -304,40 +368,25 @@
       <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
         <option name="engineId" value="chrome" />
         <option name="fileUrl" value="" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="chrome" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JsTestDriver.routes-spec.js" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.client.js" />
+      <item index="2" class="java.lang.String" itemvalue="JsTestDriver.routes-spec.js" />
     </list>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$" coffeescript-run="false">
-      <method />
-    </configuration>
-    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/dev/nodejs/node" path-to-js-file="examples/server.js" working-dir="$PROJECT_DIR$">
-      <RunnerSettings RunnerId="NodeJS.debug" />
-      <RunnerSettings RunnerId="NodeJS.run" />
-      <ConfigurationWrapper RunnerId="NodeJS.debug" />
-      <ConfigurationWrapper RunnerId="NodeJS.run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="client.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/dev/nodejs/node" path-to-js-file="examples/client.js" working-dir="$PROJECT_DIR$">
-      <RunnerSettings RunnerId="NodeJS.debug" />
-      <RunnerSettings RunnerId="NodeJS.run" />
-      <ConfigurationWrapper RunnerId="NodeJS.debug" />
-      <ConfigurationWrapper RunnerId="NodeJS.run" />
-      <method />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
@@ -376,32 +425,36 @@
       <created>1342830967663</created>
       <updated>1342830967664</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Allow for empty POST">
+      <created>1367802788330</created>
+      <updated>1367802788330</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="0" y="0" width="1600" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14774889" sideWeight="0.6019553" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14774889" sideWeight="0.67008984" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3980447" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32681563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39944133" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -426,7 +479,6 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
@@ -436,12 +488,18 @@
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated version number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Allow for empty POST" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -452,21 +510,25 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Initial commit of actual source ;-)" />
     <MESSAGE value="Supports enforceable query string parameters. Added jasmine specs" />
     <MESSAGE value="Updated version number" />
+    <MESSAGE value="Allow for empty POST" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/examples/server.js</url>
+          <line>27</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/rapid-rest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="0" selection-start="6051" selection-end="6051" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" />
@@ -517,29 +579,37 @@
         <state line="5" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/rapid-rest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="0" selection-start="6051" selection-end="6051" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" />
+        <state line="11" column="1" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/routes-spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="46" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="73" selection-start="1828" selection-end="1828" vertical-scroll-proportion="0.0" />
+        <state line="16" column="46" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="363" selection-end="363" vertical-scroll-proportion="0.3690304">
+        <state line="33" column="68" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="63" selection-start="2463" selection-end="2463" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/rapid-rest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="65" selection-start="668" selection-end="668" vertical-scroll-proportion="0.57258064">
           <folding />
         </state>
       </provider>
