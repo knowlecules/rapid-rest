@@ -1,8 +1,8 @@
 {
     "name": "rapid-rest",
-    "version": "0.2.2",
+    "version": "0.3.0",
     "description": "Minimal rest server",
-    "keywords":["rest","server","fast","mandatory querystring parameters"],
+    "keywords":["rest","server","fast","mandatory querystring parameters","cluster","clustered"],
     "repository":"git://github.com/knowlecules/rapid-rest.git",
 
     "author": {
@@ -13,5 +13,5 @@
     "main" : "./index",
     "license": "MIT",
 
-    "engine": "node >= 0.6.1"
+    "engine": "node >= 0.8.0"
 }
