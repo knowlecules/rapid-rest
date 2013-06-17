@@ -9,7 +9,6 @@ There is a performance review available on [codeproject](http://www.codeproject.
 
 The test suite is available on github at [rest-stress](https://github.com/knowlecules/rest-stress)
 
-
 ## Installation and Usage
 
 Install rapid-rest with npm 
@@ -17,8 +16,9 @@ Install rapid-rest with npm
     npm install rapid-rest 
 
 The following call should be placed on your web facing server page.
+
 ```
-    require('rapid-rest')
+var routes = require('rapid-rest')();
 ```
 
 
@@ -53,6 +53,35 @@ routes('/there/:where?here_name={here_name}&user={user}')
                            + ", for user: " + req.query.user)
       });
 ```
+
+##Fixes and feature updates 
+June 17/2013
+
+	1) Added options argument when intializing rapidRest which means that clustering is now supported out of the box which means that I'm almost nearly pretty confident about this version being production ready.
+```
+var rapidRest = require('rapid-rest');
+var routes = rapidRest({allocateCPUs: require('os').cpus().length});
+```		
+	
+	2) Avoids catastrophic socket errors by silently trapping request errors and letting the current worker process die naturally.
+
+	3) Handles empty request body.
+
+May 24th/2013
+
+	1) Route add method supports CaseInsensitivity disabling.
+```
+routes('/PATH/:but_not_pAth, true) ('post', /*** handler for URLs containing "/PATH" ***/);
+```
+
+	2) To simplify the handler code, the query collection is copied to the params collection. So be sure to not use the same name for defining parameters in the path as those that are in the queryString.
+
+	3) Supports path starts-with using '^' character
+
+```
+routes('^/PATH/:but_not_pAth, true) ('post', /*** handler for URLs starting with "/PATH" ***/);
+```
+	
 
 ##Future development
 + Allow integration with middleware such as connect or express
