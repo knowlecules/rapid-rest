@@ -1,17 +1,24 @@
 {
     "name": "rapid-rest",
-    "version": "0.4.0",
+    "version": "0.4.4",
     "description": "Minimal rest server",
-    "keywords":["rest","server","fast","mandatory querystring parameters","cluster","clustered"],
-    "repository":"git://github.com/knowlecules/rapid-rest.git",
-
+    "keywords": [
+        "rest",
+        "server",
+        "fast",
+        "mandatory querystring parameters","cluster","clustered"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/knowlecules/rapid-rest.git"
+    },
     "author": {
         "name": "Jason Rudland",
         "email": "knowlecules@gmail.com"
     },
-
-    "main" : "./index",
+    "main": "./index",
     "license": "MIT",
-
-    "engine": "node >= 0.8.0"
+    "engine": "node >= 0.8.0",
+    "_id": "rapid-rest@0.4.4",
+    "_from": "rapid-rest"
 }
